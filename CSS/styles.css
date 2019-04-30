@@ -15,15 +15,37 @@ h3{
 }
 
 /* class styles*/
-
+.profile-pic{
+	height: auto;
+	max-width: 285px;
+	width: auto;
+}
+.forklift-pic{
+	height: auto;
+	max-width: 285px;
+	width: auto;
+}
+.cable-plow{
+	width: auto;
+	max-width: 285px;
+}
 .top-container{
 	background-color: #E4F9F3;
     padding-top: 100px;
     position: relative;
+	width: auto;
+	height: auto;
+	max-width: 100%;
 }
 .middle-container{
+	width: auto;
+	height: auto;
+	max-width: 100%;
 }
 .bottom-container{
+	width: auto;
+	height: auto;
+	max-width: 100%;
 }
 .top-clond{
     position: absolute;
