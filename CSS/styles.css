@@ -16,18 +16,15 @@ h3{
 
 /* class styles*/
 .profile-pic{
-	height: auto;
-	max-width: 285px;
-	width: auto;
+	height: 285px;
+	width: 285px;
 }
 .forklift-pic{
-	height: auto;
-	max-width: 285px;
-	width: auto;
+	height: 285px;
+	width: 285px;
 }
 .cable-plow{
-	width: auto;
-	max-width: 285px;
+	
 }
 .top-container{
 	background-color: #E4F9F3;
