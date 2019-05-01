@@ -12,6 +12,7 @@ h1{
 h2{
     font-family: 'Montserrat', sans-serif;
 	font-size: 2.5rem;
+	font-weight: normal;
 	color: #66BFBF;
 }
 h3{
@@ -38,19 +39,12 @@ a{
 	background-color: #E4F9F3;
     padding-top: 100px;
     position: relative;
-	width: auto;
-	height: auto;
-	max-width: 100%;
 }
 .middle-container{
-	width: auto;
-	height: auto;
-	max-width: 100%;
+	
 }
 .bottom-container{
-	width: auto;
-	height: auto;
-	max-width: 100%;
+	
 }
 .top-clond{
     position: absolute;
@@ -66,8 +60,4 @@ a{
     height: auto;
     max-width: 100%;
     width: auto;
-}
-.sub-title{
-	font-weight: normal;
-	line-height: 2;
 }
